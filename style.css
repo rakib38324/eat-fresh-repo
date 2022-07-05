@@ -1,0 +1,68 @@
+h1{
+font-size: 65px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+
+.section1{
+display: flex;
+align-content: center;
+margin-bottom: 10%;
+}
+
+.description{
+    
+    width: 40%;
+    padding:10% 0% 5% 10%
+    
+}
+
+.image-baner{
+    width: 30%;
+    padding-left: 60px;
+    align-items: center;
+    
+}
+
+.button{
+    width: bold;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #ffffff;
+   border: 3px solid tomato;
+   text-align: center;
+   border-radius: 4px;
+   
+  
+}
+
+.color{
+    color: tomato;
+}
+
+.section2{
+    display: flex;
+    align-content: center;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.image-baner2{
+    
+    padding-right: 5%;
+    margin-top: 8%;
+}
+
+.section3{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#font-size{
+    font-size: 50px;
+}
